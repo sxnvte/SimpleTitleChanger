@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTitleChanger", "SimpleTitleChanger\SimpleTitleChanger.csproj", "{EF7788EC-7FB7-4BF4-8608-27577F0248B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7788EC-7FB7-4BF4-8608-27577F0248B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7788EC-7FB7-4BF4-8608-27577F0248B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7788EC-7FB7-4BF4-8608-27577F0248B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7788EC-7FB7-4BF4-8608-27577F0248B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD284CE3-6472-406F-9694-BBBC3E3F8580}
+	EndGlobalSection
+EndGlobal
